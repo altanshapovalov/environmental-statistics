@@ -1,3 +1,5 @@
+**READ FIRST:** brief guide to what each script in this repository represents.
+
 **1.** Files that begin with month names (i.e., jan, feb, or mar) are essentially lecture notes and demonstrate what I can do in R.
 
 **2.** Files that begin with "lab" are examples of laboratories (i.e., graded assignments) that I successfully completed during the course.
